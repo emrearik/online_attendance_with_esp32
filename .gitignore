@@ -30,6 +30,7 @@ flutter/.packages
 flutter/.pub-cache/
 flutter/.pub/
 flutter/build/
+flutter/android/app/google-services.json
 
 
 # Web related
