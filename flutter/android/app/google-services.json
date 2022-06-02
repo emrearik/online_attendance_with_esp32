@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1081948498688",
+    "firebase_url": "https://onlineyoklama-b1b86-default-rtdb.firebaseio.com",
+    "project_id": "onlineyoklama-b1b86",
+    "storage_bucket": "onlineyoklama-b1b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081948498688:android:2a02e2821f1ad5e32621e5",
+        "android_client_info": {
+          "package_name": "com.example.online_yoklama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081948498688-0o86kj7icl8toak7p9gqvgv4u6g21pat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM1TeNIxwU1_XB9boSD4Tko-33A6iCrZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081948498688-0o86kj7icl8toak7p9gqvgv4u6g21pat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
